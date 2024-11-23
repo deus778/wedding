@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: 'Edwardian';
+    font-style: normal;
+    font-weight: normal;
+    src: url(./fonts/edwardianscriptitc.ttf) format('truetype');
+  }
+}
